@@ -1,6 +1,8 @@
 [![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png?raw=true)
 
-### Hello! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="30px">
+### Hello there! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="50px">
+I'm Tammy.
+For enquiries, reach out at my <a href="https://www.linkedin.com/in/tammy-tran-jrdev/">LinkedIn</a> or through <a href="mailto:tammy.n.tran@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>.
 
 <!--
 **ohoktnt/ohoktnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
