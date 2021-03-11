@@ -11,7 +11,7 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohoktnt&layout=compact)](https://github.com/ohoktnt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohoktnt&layout=compact&langs_count=10)](https://github.com/ohoktnt/github-readme-stats)
 
 [![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohoktnt&show_icons=true&theme=slateorange)](https://github.com/ohoktnt/github-readme-stats)
 
