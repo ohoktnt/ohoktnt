@@ -4,7 +4,7 @@
 
 <p align="center">I'm Tammy.  </p>
 
-<p align="center">Click above to check out my portfolio. <img src="https://media.tenor.com/images/93d86e850b20d1fd8d16702a804ad237/tenor.gif"/></p>
+<p align="center">Click above to check out my portfolio. <img src="https://media.tenor.com/images/93d86e850b20d1fd8d16702a804ad237/tenor.gif" width="50px"/></p>
 <p align="center">For enquiries, please reach out:   </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/tammy-tran-jrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
