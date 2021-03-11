@@ -15,12 +15,6 @@
 
 [![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohoktnt&show_icons=true&theme=slateorange)](https://github.com/ohoktnt/github-readme-stats)
 
-<a href="https://github.com/ohoktnt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohoktnt&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
