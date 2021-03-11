@@ -6,9 +6,10 @@ For enquiries, please reach out!
 <a href="https://www.linkedin.com/in/tammy-tran-jrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tammy.n.tran@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohoktnt&layout=compact)](https://github.com/ohoktnt/github-readme-stats)
+
 [![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohoktnt&show_icons=true&theme=slateorange)](https://github.com/ohoktnt/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohoktnt)](https://github.com/ohoktnt/github-readme-stats)
 
 
 <!--
