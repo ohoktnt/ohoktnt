@@ -1,4 +1,4 @@
-[![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png?raw=true)
+[![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://ohoktnt.github.io/)
 
 ### Hello there! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="50px">
 I'm Tammy.
