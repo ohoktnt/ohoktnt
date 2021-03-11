@@ -6,6 +6,8 @@ For enquiries, please reach out!
 <a href="https://www.linkedin.com/in/tammy-tran-jrdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tammy.n.tran@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohoktnt)](https://github.com/ohoktnt/github-readme-stats)
+
 <!--
 **ohoktnt/ohoktnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
