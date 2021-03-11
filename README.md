@@ -1,6 +1,6 @@
-[![Header](https://github.com/ohoktnt/ohoktnt/blob/main/background1.jpg "Header")](https://github.com/ohoktnt/ohoktnt/blob/main/background1.jpg?raw=true)
+[![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png?raw=true)
 
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **ohoktnt/ohoktnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
