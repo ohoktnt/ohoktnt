@@ -1,6 +1,6 @@
 [![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://ohoktnt.github.io/)
 
-<h1 alighn='center'> Hello there! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="50px"></h1>
+<h1 align='center'> Hello there! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="50px"></h1>
 
 <p align="center">I'm Tammy.  </p>
 
