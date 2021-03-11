@@ -1,6 +1,6 @@
 [![Header](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png "Header")](https://github.com/ohoktnt/ohoktnt/blob/main/githubprofile.png?raw=true)
 
-### Hello! <img src="https://tenor.com/view/usagyuuun-usagyuuun-sticker-jumping-hi-hello-gif-13610294" width="30px">
+### Hello! <img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="30px">
 
 <!--
 **ohoktnt/ohoktnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
